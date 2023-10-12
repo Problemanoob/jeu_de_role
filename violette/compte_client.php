@@ -53,14 +53,14 @@
 <body>
     <div class="container">
         <h2>Connexion</h2>
-        <form action="catalogue.php" method="post">
+        <form action="connexion.php" method="post">
             <div class="form-group">
-                <label for="username">Nom d'utilisateur :</label>
-                <input type="text" id="username" name="username" required>
+                <label for="nom_utilisateur">Nom d'utilisateur :</label>
+                <input type="text" id="nom_utilisateur" name="nom_utilisateur" required>
             </div>
             <div class="form-group">
-                <label for="password">Mot de passe :</label>
-                <input type="password" id="password" name="password" required>
+                <label for="mdp">Mot de passe :</label>
+                <input type="mdp" id="mdp" name="mdp" required>
             </div>
             <button type="submit">Se connecter</button>
         </form>
