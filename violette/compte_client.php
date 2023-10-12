@@ -1,25 +1,69 @@
+<?
+	session_start();
+	$id_session = session_id();
+	$_SESSION['username'] = 'Jean';
+	$_SESSION['password'] = '1234';
+?>
 <!DOCTYPE html>
 <html>
-
 <head>
-	<title>Pardanotes - Identification requise</title>
-	<meta charset="utf-8">
-	<link rel="stylesheet" href="style.css" media="screen" type="text/css" />
+    <title>Connexion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+        }
+        .form-group {
+            margin: 10px 0;
+        }
+        label {
+            display: block;
+            font-weight: bold;
+        }
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background: #007BFF;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
 </head>
-
 <body>
-	<div id="container">
-		<form action="catalogue.php" method="POST">
-			<img src="connexion.png"><br><br>
-			<Label for="username">Votre nom :</Label> <input type="text" placeholder="Entrer votre nom d'utilisateur"
-				name="username" id="username" required><br> <Label for="username">Mot de passe : </Label><input
-				type="password" placeholder="Entrer le mot de passe" name="password" id="password"
-				required /><br /><br />
-			<input type="reset" value="Annuler" /> <input type="submit" value='Se connecter' />
-	</div>
-	<footer>
-		<p>Copyright 2023 - Tous droits réservés <br>Mentions légales - CGU - Nous contacter</p>
-	</footer>
+    <div class="container">
+        <h2>Connexion</h2>
+        <form action="catalogue.php" method="post">
+            <div class="form-group">
+                <label for="username">Nom d'utilisateur :</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Mot de passe :</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <button type="submit">Se connecter</button>
+        </form>
+    </div>
 </body>
-
 </html>
