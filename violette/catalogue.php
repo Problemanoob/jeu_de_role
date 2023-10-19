@@ -1,7 +1,7 @@
 <?
 session_start();
 $id_session = session_id();
-echo ($utilisateur_saisi)
+echo ($_SESSION['utilisateur']);
 ?>
 
 <!DOCTYPE html>
