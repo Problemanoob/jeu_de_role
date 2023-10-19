@@ -1,8 +1,6 @@
 <?
 	session_start();
 	$id_session = session_id();
-	$_SESSION['username'] = 'Jean';
-	$_SESSION['password'] = '1234';
 ?>
 <!DOCTYPE html>
 <html>

@@ -167,3 +167,39 @@ footer {
 #nomEtudiant {
 	width: 90%
 }
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+.catalog {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.product {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+}
+
+.product img {
+    max-width: 100%;
+}
+
+.product h2 {
+    font-size: 18px;
+}
+
+.product p {
+    margin: 10px 0;
+}
