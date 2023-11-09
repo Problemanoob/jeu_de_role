@@ -6,7 +6,7 @@ $mot_de_passe_saisi = $_POST['mdp'];
 $_SESSION['utilisateur'] = $utilisateur_saisi;
 $_SESSION['mdp'] = $mot_de_passe_saisi;
 
-if ($_POST['nom_utilisateur'] == "admin" && $_POST['mdp'] == "admin1234"){
+if ($_SESSION['utilisateur'] == "admin" && $_SESSION['mdp'] == "admin1234"){
     header("Location: administration.php");
 }
 else{
