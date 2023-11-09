@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Lucas subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Journal du geek" title="Journal du geek">
+            <outline type="rss" text="HardwareCooking" title="HardwareCooking" xmlUrl="https://www.hardwarecooking.fr/feed/" htmlUrl="https://www.hardwarecooking.fr/"/>
+            <outline type="rss" text="Materiel.net - Votre expert informatique &amp; High Tech - Nouveautés &amp; Promotions !" title="Materiel.net - Votre expert informatique &amp; High Tech - Nouveautés &amp; Promotions !" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=http%3A%2F%2Fwww.materiel.net%2Frss%2Fnouveaute.rss" htmlUrl="http://www.materiel.net/rss/nouveaute.rss"/>
+            <outline type="rss" text="Tom’s Hardware" title="Tom’s Hardware" xmlUrl="http://www.presence-pc.com/rss.xml" htmlUrl="https://www.tomshardware.fr/"/>
+            <outline type="rss" text="Journal du Geek" title="Journal du Geek" xmlUrl="http://www.journaldugeek.com/rss.php" htmlUrl="https://www.journaldugeek.com/"/>
+            <outline type="rss" text="Clubic.com" title="Clubic.com" xmlUrl="http://www.clubic.com/xml/news.xml" htmlUrl="https://www.clubic.com/articles.rss"/>
+            <outline type="rss" text="Begeek.fr" title="Begeek.fr" xmlUrl="http://www.begeek.fr/feed" htmlUrl="https://www.begeek.fr/feed"/>
+            <outline type="rss" text="Geeek" title="Geeek" xmlUrl="http://www.geeek.org/feed/rss2" htmlUrl="https://www.geeek.org/"/>
+            <outline type="rss" text="GNT - Actualités" title="GNT - Actualités" xmlUrl="http://www.generation-nt.com/export/rss.xml" htmlUrl="https://www.generation-nt.com"/>
+            <outline type="rss" text="Top Achat - Ventes Flash" title="Top Achat - Ventes Flash" xmlUrl="http://partenaire.topachat.com/rss_flash.xml" htmlUrl="http://www.topachat.com/accueil/index.php"/>
+            <outline type="rss" text="Le comptoir du hardware" title="Le comptoir du hardware" xmlUrl="http://www.comptoir-hardware.com/home.xml" htmlUrl="https://www.comptoir-hardware.com/"/>
+            <outline type="rss" text="LDLC.com" title="LDLC.com" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIu36vEY96BCwfYvz5ccucg" htmlUrl="https://www.youtube.com/channel/UCIu36vEY96BCwfYvz5ccucg"/>
+        </outline>
+        <outline text="Cybersécurité" title="Cybersécurité">
+            <outline type="rss" text="Les Numériques - Toute l'actualité, les tests et dossiers, les bons plans" title="Les Numériques - Toute l'actualité, les tests et dossiers, les bons plans" xmlUrl="http://www.lesnumeriques.com/rss.xml" htmlUrl="https://www.lesnumeriques.com/"/>
+            <outline type="rss" text="Journal du hacker" title="Journal du hacker" xmlUrl="https://infos.mytux.fr/rss" htmlUrl="https://www.journalduhacker.net/"/>
+            <outline type="rss" text="Root Me : plateforme d'apprentissage dédiée au Hacking et à la Sécurité de l'Information" title="Root Me : plateforme d'apprentissage dédiée au Hacking et à la Sécurité de l'Information" xmlUrl="http://www.root-me.org/spip.php?page=backend&amp;lang=fr" htmlUrl="https://www.root-me.org/"/>
+            <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="http://www.cert.ssi.gouv.fr/site/cert-fr.rss" htmlUrl="https://www.cert.ssi.gouv.fr"/>
+            <outline type="rss" text="Sécurité informatique : Toute l’actualité sur Le Monde.fr." title="Sécurité informatique : Toute l’actualité sur Le Monde.fr." xmlUrl="http://www.lemonde.fr/rss/tag/securite-informatique.xml" htmlUrl="https://www.lemonde.fr/securite-informatique/rss_full.xml"/>
+            <outline type="rss" text="ZATAZ" title="ZATAZ" xmlUrl="http://feeds.feedburner.com/ZatazNews" htmlUrl="https://www.zataz.com"/>
+            <outline type="rss" text="Cowcotland" title="Cowcotland" xmlUrl="http://www.cowcotland.com/rss-news.xml" htmlUrl="https://www.cowcotland.com"/>
+            <outline type="rss" text="The Mozilla Blog" title="The Mozilla Blog" xmlUrl="http://blog.mozilla.com/feed/" htmlUrl="https://blog.mozilla.org/en/"/>
+            <outline type="rss" text="Flux Sécurité Developpez" title="Flux Sécurité Developpez" xmlUrl="http://securite.developpez.com/index/rss" htmlUrl="http://securite.developpez.com/index/rss"/>
+            <outline type="rss" text="Agence nationale de la sécurité des systèmes d'information" title="Agence nationale de la sécurité des systèmes d'information" xmlUrl="http://www.ssi.gouv.fr/site_page_backend.rss" htmlUrl="https://www.ssi.gouv.fr/"/>
+            <outline type="rss" text="RSS - Actualité CNIL.fr" title="RSS - Actualité CNIL.fr" xmlUrl="http://www.cnil.fr/rss-cnil/" htmlUrl="https://www.cnil.fr/fr/rss.xml"/>
+            <outline type="rss" text="Data Security Breach" title="Data Security Breach" xmlUrl="http://datasecuritybreach.fr/feed/" htmlUrl="https://www.datasecuritybreach.fr"/>
+            <outline type="rss" text="Sécurité Debian" title="Sécurité Debian" xmlUrl="http://www.debian.org/security/dsa-long.fr.rdf" htmlUrl="http://security.debian.org/"/>
+            <outline type="rss" text="UnderNews" title="UnderNews" xmlUrl="http://feeds.feedburner.com/undernews/oCmA" htmlUrl="https://www.undernews.fr"/>
+            <outline type="rss" text="CCM : Derniers contenus" title="CCM : Derniers contenus" xmlUrl="http://www.commentcamarche.net/rss/rss.php3" htmlUrl="http://www.commentcamarche.net"/>
+            <outline type="rss" text="Agence nationale de la sécurité des systèmes d'information" title="Agence nationale de la sécurité des systèmes d'information" xmlUrl="https://www.ssi.gouv.fr/feed/certification_cc/" htmlUrl="https://www.ssi.gouv.fr/"/>
+            <outline type="rss" text="Le Comptoir Sécu" title="Le Comptoir Sécu" xmlUrl="http://www.comptoirsecu.fr/feed/" htmlUrl="https://www.comptoirsecu.fr"/>
+            <outline type="rss" text="Vigilance.fr - vulnérabilités publiques" title="Vigilance.fr - vulnérabilités publiques" xmlUrl="http://vigilance.fr/rss/1/1" htmlUrl="https://vigilance.fr/?langue=1"/>
+        </outline>
+        <outline text="Mobile" title="Mobile">
+            <outline type="rss" text="Phonandroid : actualité sur le système android" title="Phonandroid : actualité sur le système android" xmlUrl="http://feeds.feedburner.com/phonandroid" htmlUrl="https://www.phonandroid.com/"/>
+            <outline type="rss" text="PhonAndroid" title="PhonAndroid" xmlUrl="http://www.phonandroid.com/feed" htmlUrl="https://www.phonandroid.com/"/>
+            <outline type="rss" text="Frandroid" title="Frandroid" xmlUrl="http://feeds.feedburner.com/frandroid" htmlUrl="https://www.frandroid.com/"/>
+            <outline type="rss" text="iPhoneAddict.fr" title="iPhoneAddict.fr" xmlUrl="http://feeds.feedburner.com/Iphoneaddictfr" htmlUrl="https://iphoneaddict.fr/"/>
+            <outline type="rss" text="iPhon.fr" title="iPhon.fr" xmlUrl="http://www.iphon.fr/feed/atom" htmlUrl="https://www.iphon.fr"/>
+        </outline>
+    </body>
+</opml>
