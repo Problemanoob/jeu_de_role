@@ -1,6 +1,10 @@
 <?
 	session_start();
 	$id_session = session_id();
+
+    $value = 15;
+    setrawcookie("cookie_AFK", $value, time()+5, "/", "", true, true);
+    echo $_COOKIE["cookie_AFK"];
 ?>
 <!DOCTYPE html>
 <html>
